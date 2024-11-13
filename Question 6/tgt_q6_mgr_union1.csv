@@ -1,0 +1,11 @@
+#FIELD_#employee_id,first_name,last_name,email,phone_number,hire_date,job_id,salary,manager_id,department_id
+103,"Alexande","Hunold","alexander.hunold@sqltutorial.or","590.423.4567","01/03/1990 00:00:00",9,9000,102,6
+104,"Bruce","Ernst","bruce.ernst@sqltutorial.org","590.423.4568","05/21/1991 00:00:00",9,6000,103,6
+105,"David","Austin","david.austin@sqltutorial.org","590.423.4569","06/25/1997 00:00:00",9,4800,103,6
+106,"Valli","Pataballa","valli.pataballa@sqltutorial.org","590.423.4560","02/05/1998 00:00:00",9,4800,103,6
+107,"Diana","Lorentz","diana.lorentz@sqltutorial.org","590.423.5567","02/07/1999 00:00:00",9,4200,103,6
+108,"Nancy","Greenberg","nancy.greenberg@sqltutorial.org","515.124.4569","08/17/1994 00:00:00",7,12000,101,10
+200,"Jennifer","Whalen","jennifer.whalen@sqltutorial.org","515.123.4444","09/17/1987 00:00:00",3,4400,101,1
+203,"Susan","Mavris","susan.mavris@sqltutorial.org","515.123.7777","06/07/1994 00:00:00",8,6500,101,4
+204,"Hermann","Baer","hermann.baer@sqltutorial.org","515.123.8888","06/07/1994 00:00:00",12,10000,101,7
+205,"Shelley","Higgins","shelley.higgins@sqltutorial.org","515.123.8080","06/07/1994 00:00:00",2,12000,101,11

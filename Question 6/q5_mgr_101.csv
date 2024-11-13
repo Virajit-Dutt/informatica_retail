@@ -1,0 +1,6 @@
+#employee_id,first_name,last_name,email,phone_number,hire_date,job_id,salary,manager_id,department_id
+108,Nancy,Greenberg,nancy.greenberg@sqltutorial.org,515.124.4569,08/17/1994 00:00:00,7,12000.00,101,10
+200,Jennifer,Whalen,jennifer.whalen@sqltutorial.org,515.123.4444,09/17/1987 00:00:00,3,4400.00,101,1
+203,Susan,Mavris,susan.mavris@sqltutorial.org,515.123.7777,06/07/1994 00:00:00,8,6500.00,101,4
+204,Hermann,Baer,hermann.baer@sqltutorial.org,515.123.8888,06/07/1994 00:00:00,12,10000.00,101,7
+205,Shelley,Higgins,shelley.higgins@sqltutorial.org,515.123.8080,06/07/1994 00:00:00,2,12000.00,101,11
